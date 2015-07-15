@@ -1,2 +1,2 @@
-# test-tepo
+# test-repo
 This is a test repo!
